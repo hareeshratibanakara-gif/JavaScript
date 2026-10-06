@@ -109,7 +109,6 @@ let sumOfIntegere=function(c,d)
 //Only Anoynimus functions can be assined to variable
 //=>Fact
 let sumOfNumbers=(c,d)=> c*d
-
 console.log(sumOfNumbers(2,3))
 
 
